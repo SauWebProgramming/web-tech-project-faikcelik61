@@ -1,0 +1,63 @@
+{
+    "profile": {
+        "name": "Faik Çelik",
+        "title": "Frontend Geliştirici",
+        "bio": "Merhaba! Ben Faik. Web teknolojilerine olan tutkumla, kullanıcı dostu ve estetik arayüzler tasarlıyorum. Modern web standartlarına uygun, erişilebilir ve performanslı kod yazmaya özen gösteriyorum. Sürekli öğrenme ve kendimi geliştirme odaklıyım.",
+        "avatar": "https://ui-avatars.com/api/?name=Faik+Celik&background=0D8ABC&color=fff&size=200"
+    },
+    "projects": [
+        {
+            "id": 1,
+            "title": "E-Ticaret Yönetim Paneli",
+            "description": "Online mağazalar için geliştirilmiş kapsamlı bir yönetim paneli.",
+            "details": "Bu proje, mağaza sahiplerinin işlerini kolaylaştırmak için tasarlanmıştır. Stok takibi, sipariş yönetimi, müşteri analizi ve satış raporları gibi özellikler içerir. React ve Chart.js kullanılarak veriler görselleştirilmiş, Tailwind CSS ile modern bir arayüz sağlanmıştır. Ayrıca, kullanıcı yetkilendirme sistemi ile güvenli bir yapı sunar.",
+            "image": "images/ecommerce.png",
+            "tags": [
+                "React",
+                "Chart.js",
+                "Tailwind CSS"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 2,
+            "title": "Görev ve Proje Takip Uygulaması",
+            "description": "Takımların iş birliği içinde çalışmasını sağlayan görev yönetim aracı.",
+            "details": "Takım içi iletişimi ve verimliliği artırmayı hedefleyen bu uygulama, Kanban panosu mantığıyla çalışır. Kullanıcılar görev oluşturabilir, atayabilir, önceliklendirebilir ve sürükle-bırak yöntemiyle durumlarını güncelleyebilir. Firebase ile gerçek zamanlı veri senkronizasyonu sağlanmıştır.",
+            "image": "images/task-app.png",
+            "tags": [
+                "Vue.js",
+                "Firebase",
+                "SCSS"
+            ],
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "title": "Hava Durumu ve Tahmin API",
+            "description": "Anlık hava durumu ve 5 günlük tahmin sunan web uygulaması.",
+            "details": "OpenWeatherMap API kullanılarak geliştirilen bu uygulama, kullanıcının konumuna veya aradığı şehre göre detaylı hava durumu bilgisi sunar. Sıcaklık, nem, rüzgar hızı gibi verilerin yanı sıra, gelecek günler için tahminler de grafiksel olarak gösterilir. Responsive tasarımı ile mobilde de rahatça kullanılabilir.",
+            "image": "images/weather.png",
+            "tags": [
+                "JavaScript",
+                "REST API",
+                "CSS3"
+            ],
+            "link": "#"
+        }
+    ],
+    "contact": {
+        "email": "faik.celik@example.com",
+        "phone": "+90 555 123 45 67",
+        "social": [
+            {
+                "platform": "GitHub",
+                "url": "https://github.com"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://linkedin.com"
+            }
+        ]
+    }
+}
