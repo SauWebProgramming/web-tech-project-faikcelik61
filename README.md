@@ -27,7 +27,11 @@ Proje GitHub Pages üzerinde barındırıldığında sorunsuz çalışacaktır.
 - HTML5 (Semantik Yapı)
 - CSS3 (Flexbox, Grid, CSS Variables)
 - JavaScript (ES6+, Fetch API, Async/Await)
+- ## Canlı Sitemi Görüntüle
+
+Bu projenin çalışan canlı versiyonuna buradan ulaşabilirsiniz: [Canlı Siteyi Ziyaret Et](https://sauwebprogramming.github.io/web-tech-project-faikcelik61/)
 
 ## Geliştirici
 **Ad Soyad:** Faik Çelik
 **Ders:** Web Teknolojileri
+
